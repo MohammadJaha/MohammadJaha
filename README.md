@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MohammadJaha
 - 👀 I’m interested in Programming Languages
-- 🌱 I’m currently learning Mobile App Develo
+- 🌱 I’m currently learning Mobile App Development
 - 💞️ I’m looking to collaborate on Creating Advanced World
 - 📫 Reach me on My Email
 
